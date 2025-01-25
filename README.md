@@ -2,7 +2,8 @@
 
 **Descripción:**
 Este proyecto muestra un dashboard interactivo para analizar datos de ventas de una empresa
-![image](https://github.com/user-attachments/assets/de1317df-5411-4e6a-adb2-95f2f5361235)
+![image](https://github.com/user-attachments/assets/2bf89b70-63f0-4268-889f-e27f29bdbe0d)
+
 
 **Características:**
 - Visualizaciones dinámicas
